@@ -1,0 +1,235 @@
+{
+	"USER" : 
+	{
+		"general" : 
+		{
+			"browser" : 
+			{
+				"advertiseexplore" : true,
+				"advertiseworkshop" : true,
+				"advertiseworkshoppopup" : true,
+				"explore" : 
+				{
+					"custom" : [],
+					"disliked" : [],
+					"favorites" : [],
+					"liked" : []
+				},
+				"folders" : [],
+				"seasonaldialogdisabled" : null,
+				"seasonaldialogtimestamp" : 20220072,
+				"showmonitorselectiononstart" : true,
+				"viewiconsize" : "medium",
+				"viewopacity" : 100
+			},
+			"editor" : 
+			{
+				"hasshownworkshoprules" : true,
+				"previewratio" : "free",
+				"recentfiles" : 
+				[
+					"C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/myprojects/145824953-3afdb8/project.json"
+				],
+				"savedlayouts" : 
+				{
+					"scene" : 
+					{
+						"background" : 
+						{
+							"first" : 
+							{
+								"panels" : [ "layers", "camerapaths", "sceneoptions" ]
+							},
+							"orientation" : "horizontal",
+							"position" : 200,
+							"second" : 
+							{
+								"align" : "end",
+								"first" : 
+								{
+									"align" : "end",
+									"first" : 
+									{
+										"panels" : [ "preview" ]
+									},
+									"orientation" : "vertical",
+									"position" : 120,
+									"second" : 
+									{
+										"panels" : [ "assets", "log" ]
+									}
+								},
+								"orientation" : "horizontal",
+								"position" : 300,
+								"second" : 
+								{
+									"panels" : [ "properties" ]
+								}
+							}
+						},
+						"floating" : []
+					},
+					"simple" : 
+					{
+						"background" : 
+						{
+							"first" : 
+							{
+								"panels" : [ "files" ]
+							},
+							"orientation" : "horizontal",
+							"position" : 300,
+							"second" : 
+							{
+								"panels" : [ "preview" ]
+							}
+						},
+						"floating" : []
+					}
+				},
+				"showgrid" : true,
+				"showonstartup" : true,
+				"showselectionbox" : true,
+				"showstats" : false
+			},
+			"localfiles" : [ "C:/Users/USER/Pictures/New video.mp4" ],
+			"user" : 
+			{
+				"adjustdwmcolor" : false,
+				"adjustdwmcolormode" : "disabled",
+				"apprules" : null,
+				"audioinputdevice" : "default",
+				"audioinputthreshold" : 0,
+				"audioinputvolume" : 50,
+				"autostart" : true,
+				"autostartscheduler" : false,
+				"autostartx64" : false,
+				"bloom" : true,
+				"cefcommandline" : "",
+				"fps" : 15,
+				"graphicsapi" : "dxgi",
+				"hasshownwelcomedialog" : true,
+				"iconopacity" : 100,
+				"language" : "default",
+				"loglevel" : "error",
+				"logtofileenabled" : true,
+				"monitordetection" : "devicepath",
+				"msaa" : "x2",
+				"playbackaudio" : "run",
+				"playbackfocus" : "run",
+				"playbackfullscreen" : "pause",
+				"playbackmaximized" : "pause",
+				"playbackonbattery" : "run",
+				"playbacksleep" : "stop",
+				"plugins" : null,
+				"preset" : "medium",
+				"processpriority" : "normal",
+				"reflection" : true,
+				"resolution" : "full",
+				"safemode" : true,
+				"steamlanguage" : "english",
+				"uicmd" : "",
+				"uiskin" : null,
+				"uiskinseasonal" : true,
+				"unpauseaero" : true,
+				"videoaudiooutput" : true,
+				"videohardwareacceleration" : true,
+				"videoloopmode" : "default",
+				"videoreadmode" : "fromdisk",
+				"windows7mode" : "compatibility",
+				"windowupdaterate" : 1000
+			},
+			"wallpaperconfig" : 
+			{
+				"layout" : 0,
+				"profile" : null,
+				"selectedwallpapers" : 
+				{
+					"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/neon_sunset/scene.json",
+						"local" : true
+					}
+				}
+			},
+			"wallpaperconfigrecent" : 
+			[
+				{
+					"config" : 
+					{
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/corsair_collection/index.html"
+							}
+						}
+					},
+					"title" : "CORSAIR Collection"
+				},
+				{
+					"config" : 
+					{
+						"layout" : null,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/neon_sunset/scene.json",
+								"local" : true
+							}
+						}
+					},
+					"title" : "Neon Sunset"
+				}
+			]
+		},
+		"version" : 1,
+		"wallpaperproperties" : 
+		[
+			{
+				"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/deep_space/scene.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 2,
+						"rate" : 200
+					}
+				}
+			},
+			{
+				"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/fantasticcar/fantasticcar.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"rate" : 200
+					}
+				}
+			},
+			{
+				"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/arsenal/scene.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"rate" : 200
+					}
+				}
+			},
+			{
+				"file" : "C:/Users/USER/Desktop/wallpaper_engine_1.1.341/wallpaper_engine_1.1.341/wallpaper_engine/projects/defaultprojects/neon_sunset/scene.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#DEL41FF#4&7e5290e&0&UID206379#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"noisefx" : 0
+					}
+				}
+			}
+		]
+	}
+}
